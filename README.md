@@ -1,0 +1,1 @@
+# coolapk-blacklist-keywords
