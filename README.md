@@ -6,9 +6,9 @@
 
 - or more
 ## list
--  详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
+-  （主）详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 
--  Markdown 版本见 list.md
+-  （补充）[list.md](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 ## tips
 -  [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt) 中部分条目为**已取消屏蔽**或**曾临时取消屏蔽**的关键词，仅供参考
 -  Markdown 版本中**已取消屏蔽**或**曾临时取消屏蔽**的关键词用~~删除线~~标注
