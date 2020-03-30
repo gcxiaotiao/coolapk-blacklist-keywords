@@ -1,10 +1,10 @@
 # coolapk-blacklist-keywords
 
-- 根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示
+> 根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示
 
-- Toast message: 输入内容不可包含“XXX”
+> Toast message: 输入内容不可包含“XXX”
 
-- or more
+ or more
 ## list
 -  （主）详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 
