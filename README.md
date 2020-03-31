@@ -1,4 +1,5 @@
 # coolapk-blacklist-keywords
+欢迎 Fork、Star、PR
 
 > 根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示
 
