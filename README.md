@@ -2,13 +2,14 @@
 详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 
 欢迎 Fork、Star、PR
+## content sources
 
-> 根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示
+> **根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示**（搜索）
 
 Toast message: 
 
-> 输入内容不可包含“卸载酷安”（回复）<br>
- 内容包含违规信息，无法发送（私信）
+> **输入内容不可包含“卸载酷安”**（回复）<br>
+ **内容包含违规信息，无法发送**（私信）
 
 
  or more
