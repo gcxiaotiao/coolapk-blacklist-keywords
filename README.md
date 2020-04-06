@@ -8,11 +8,14 @@
 
 Toast message: 
 
-> **输入内容不可包含“卸载酷安”**（回复）<br>
+> **输入内容不可包含“卸载酷安”**（动态/评论）<br>
  **内容包含违规信息，无法发送**（私信）
 
-
- or more
+ or 
+ 
+ **触发关键词无提醒自动隐藏/折叠**（动态/评论）
+ 
+  or more ...
 ## list
 -  （主要）详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 
