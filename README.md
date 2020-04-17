@@ -2,7 +2,7 @@
 详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 
 欢迎 Fork、Star、PR
-## content sources
+## keywords sources
 
 > **根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示**（搜索）
 
@@ -19,10 +19,10 @@ Toast message:
 ## list
 -  （主要）详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
 
--  ~~（补充）[list.md](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)~~
+-  ~~（补充，暂停维护）[list.md](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)~~
 ## tips
--  [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt) 中部分条目为**已取消屏蔽**或**曾临时取消屏蔽**的关键词，仅供参考
--  Markdown 版本中**已取消屏蔽**或**曾临时取消屏蔽**的关键词用~~删除线~~标注
+-  因 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt) **只增不减**，故其中部分条目为**已取消屏蔽**或**曾临时取消屏蔽**的关键词，仅供参考
+-  ~~Markdown 版本中**已取消屏蔽**或**曾临时取消屏蔽**的关键词用删除线标注~~
 
 ## timeline
 - 2020年3月18日 <br>[响应](https://www.coolapk.com/feed/17375619)《网络信息内容生态治理规定》，酷安进行为期7天的筛查
