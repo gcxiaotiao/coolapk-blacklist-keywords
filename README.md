@@ -1,7 +1,9 @@
 # coolapk-blacklist-keywords
--  详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
+-  **详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)**
 
--  欢迎 Fork、Star、PR
+-  欢迎 Fork、Star、Pull Request 
+
+-  不熟悉 Git 或者 GitHub 使用的朋友，<br>可以整理关键词（一行一条）并发送邮件至 coolapk-fan@hotmail.com
 ## keywords sources
 
 > **根据[酷安社区管理规范](https://github.com/Coolapk-Fan/communitySpecification) 该关键词搜索结果不予显示**（搜索）
