@@ -20,6 +20,7 @@ Toast message:
   or more ...
 ## list
 -  （主要）详见 [list.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
+-   [other.txt](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/other.txt)
 
 -  ~~（补充，暂停维护）[list.md](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)~~
 ## tips
